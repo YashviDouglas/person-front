@@ -1,6 +1,6 @@
 // App.js
 import React from 'react';
-import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route,  Routes } from 'react-router-dom';
 import PeopleList from './PeopleList';
 import './App.css';
 import AddPerson from './AddPerson';
